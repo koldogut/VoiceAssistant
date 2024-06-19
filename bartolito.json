@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "bartolito",
   "author": "Koldo Gutierrez",
-  "website": "https://www.rtve.es",
+  "website": "https://github.com/koldogut",
   "model": "./bartolito.tflite",
   "version": 1,
   "micro": {
